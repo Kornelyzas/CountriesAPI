@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+}
+.container-fluid{
+	padding-top: 1%;
+	height: 100%;
+	width: 100%;
+	background-color: rgb(6, 6, 6);
+}
+.header{
+	padding: 0;
+	background-color: rgb(6, 6, 6);
+	
+}
+.main{
+	margin-top: 5%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.container{
+	background-image: url(https://images.unsplash.com/photo-1589519160732-57fc498494f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+	width: 100%;
+	color: white;
+	padding-top: 5%;
+}
+.form{
+	margin-top: 4%;
+}
+.card{
+	margin: 10px;
+}
